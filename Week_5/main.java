@@ -2,7 +2,8 @@ public class main{
     public static void main(String[]args){
         Student s = new Student();
         s.setStudentID("CU12345");
-        s.setName("Mohammed");
+        s.setName("Mohammed
+        ");
         s.setCGPA(4.00);
         s.setProgramme("BCSSE");
 
