@@ -1,14 +1,11 @@
-# othman-abdalrahim-H-A-202501010595
+# MOHAMED-DEYAELDIN-202505010510
 
-Student Name:	Othman Abdalrahim H A
 
-Student ID:	202501010595
+Student Name: MOHAMED DEYAELDIN MUSTAFA
+
+Student ID:	202505010510
 
 Course:	BIT1123 – Object-Oriented Programming
-
-Institution	City: University Malaysia
-
-Campus:	Cyberjaya Campus
 
 Assignment:	Assignment 1 – Individual
 
@@ -39,45 +36,45 @@ There are separate folders for each tutorial, and each tutorial concentrates on 
 ## Repository Structure 
 
 ```text
-othman-abdalrahim-H-A-202501010595/
+MOHAMED-DEYAELDIN-202505010510/
 ├── README.md
-├── Report.pdf
+├── My Report.pdf
 |
-├── tutorial_1/
+├── week_1/
 │   ├── Student.java
 │   └── main.java
 │
-├── tutorial_2/
+├── week_2/
 │   ├── Student.java
 │   └── main.java
 │
-├── tutorial_3/
+├── week_3_4/
 │   ├── Person.java
 │   ├── Student.java
 │   ├── Lecturer.java
 │   └── Main.java
 │
-├── tutorial_5/
+├── week_5/
 │   ├── Student.java
 │   ├── main.java
 │   └── docementation.txt
 │
-├── tutorial_6/
+├── week_6/
 │   ├── employee.java
 │   ├── lecturer.java
 │   └── main.java
 │
-├── tutorial_7/
+├── week_7/
 │   ├── Applience.java
 │   ├── Microwave.java
 │   ├── WashingMachine.java
 │   └── Main.java
 │
-├── tutorial_8-9/
+├── week_8-9/
 │   ├── task.txt
 │   └── main.java
 |
-├── tutolrial_10/
+├── week_10/
 │   ├── Questions.java
 │   └── QuizBattleGUI.java
 
@@ -116,7 +113,7 @@ For example, `tutorial_1` contains a `Student` class with attributes such as:
 It also includes methods for displaying student information and performing actions such as studying and taking an exam.
 
 ```java
-Student s1 = new Student("Abdalrahim", 19, 3.6);
+Student s1 = new Student("Mohammed", 20, 3.8);
 
 s1.displayInfo();
 s1.study();
@@ -226,13 +223,13 @@ You can also compile and run the programs directly from the command line.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595.git
+git clone https://github.com/Mohammeddeya/MOHAMED-DEYAELDIN-202505010510.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd othman-abdalrahim-H-A-202501010595
+cd MOHAMED-DEYAELDIN-202505010510
 ```
 
 ### Compile a Tutorial
@@ -287,4 +284,4 @@ See the [`LICENSE`](LICENSE) file for more information.
 
 The complete source code is available on GitHub:
 
-[**othman-abdalrahim-H-A-202501010595**](https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595)
+[**MOHAMED-DEYAELDIN-202505010510**](https://github.com/Mohammeddeya/MOHAMED-DEYAELDIN-202505010510)
